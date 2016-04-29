@@ -1,3 +1,14 @@
+
+介绍：
+一个轻量级支持自定义的简洁的拥有动画效果的 UIButton，通常用作录制按钮。
+ 
+以下介绍2种方法加入到项目中：
+Manual installation（手动安装）手动拖入 SDRecordButton 到自己的项目中，然后导入以下的头文件
+       #import "SDRecordButton.h";
+ 
+Installation with CocoaPods（通过 cocoapods 安装，podfile 文件添加以下一行，并执行 pod install）
+    pod "SDRecordButton", "~> "1.0"
+    
 ![SDRecordButton](https://dl.dropboxusercontent.com/s/9954jio68aqu5t6/sdrecordbutton2.png?dl=0)
 
 <p align="center">
